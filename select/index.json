@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "とろい",
+  "base_artist": "AKASAKI",
+  "createdAt": "2026-01-13T13:53:43.383148Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "とろい",
+      "artist": "AKASAKI",
+      "has_synced": false,
+      "path": "select/pl_01_とろい_AKASAKI.txt"
+    }
+  ]
+}
